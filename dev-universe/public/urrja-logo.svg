@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="96" fill="#f97316" />
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, sans-serif" font-size="140" font-weight="800" fill="#ffffff">URRJA</text>
-  <circle cx="412" cy="100" r="48" fill="#fff" opacity="0.12" />
-  <circle cx="90" cy="420" r="52" fill="#fff" opacity="0.14" />
-</svg>

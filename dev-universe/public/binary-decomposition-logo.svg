@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="96" fill="#0f766e" />
-  <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, sans-serif" font-size="115" font-weight="800" fill="#ffffff">OvA</text>
-  <text x="50%" y="68%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, sans-serif" font-size="44" fill="#ffffff">Binary</text>
-  <circle cx="120" cy="120" r="48" fill="#ffffff" opacity="0.12" />
-  <circle cx="420" cy="420" r="52" fill="#ffffff" opacity="0.14" />
-</svg>
